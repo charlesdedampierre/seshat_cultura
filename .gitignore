@@ -4,7 +4,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
-data/
+data/*
+!data/processed/
+data/processed/*.duckdb
+data/processed/*.duckdb.wal
 logs/
 claude/
 external/
