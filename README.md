@@ -14,7 +14,6 @@ Links Cultura's cultural producers to Seshat polities and compares cultural prod
 - `01_unseen_species_by_seshat_region` – generalized Chao model, writes `data/processed/unseen_species.csv`
 - `02_creative_individuals_by_seshat_polity` – Scale_1 and cultural production by polity and region
 - `03_association_complexity_cultural_production` – fixed-effects regressions
-- `04_granger_complexity_cultural_production` – Granger tests
 
 ## Not in the repository
 
