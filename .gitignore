@@ -11,3 +11,4 @@ data/processed/*.duckdb.wal
 logs/
 claude/
 external/
+_draft/
